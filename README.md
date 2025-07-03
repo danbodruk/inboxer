@@ -51,8 +51,3 @@ You can expose the local development server via `ngrok` if needed:
 ```bash
 ngrok http 8000
 ```
-
-## instanceId
-f99280f8-f743-4e86-bc3d-9f998ec8614a
-## contact_number
-554196226443
